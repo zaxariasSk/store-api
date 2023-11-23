@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/express" level="application" />
+    <orderEntry type="library" name="@types/mongodb-uri" level="application" />
+    <orderEntry type="library" name="@types/mongodb-queue" level="application" />
+    <orderEntry type="library" name="@types/node" level="application" />
+    <orderEntry type="library" name="@types/ejs" level="application" />
+    <orderEntry type="library" name="@types/ejs-locals" level="application" />
+    <orderEntry type="library" name="@types/express-ejs-layouts" level="application" />
+    <orderEntry type="library" name="@types/express-session" level="application" />
+    <orderEntry type="library" name="@types/bcrypt" level="application" />
+    <orderEntry type="library" name="@types/npm" level="application" />
+    <orderEntry type="library" name="@types/cookie" level="application" />
+    <orderEntry type="library" name="@types/cookie-parser" level="application" />
+  </component>
+</module>
